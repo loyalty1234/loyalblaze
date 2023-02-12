@@ -1,0 +1,13 @@
+.con{
+    text-align: center;
+    width: 45%;
+}
+
+.con p{
+    line-height: 2rem;
+}
+
+.text{
+    align-self: center;
+    margin-left: 13rem;
+}
